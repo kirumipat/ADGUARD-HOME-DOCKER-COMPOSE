@@ -1,6 +1,6 @@
 ## ADGUARD HOME DOCKER COMPOSE
 
-<span style="color:red">text in red</span>
+<font color='red'>test blue color font</font>
 
 ```yaml
 version: "2"
