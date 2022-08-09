@@ -2,7 +2,7 @@
 
 
 ```diff
-- ## ADGUARD HOME DOCKER COMPOSE
+ADGUARD HOME DOCKER COMPOSE
 + text in green
 ! text in orange
 # text in gray
