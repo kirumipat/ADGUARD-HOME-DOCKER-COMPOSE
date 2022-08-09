@@ -1,4 +1,3 @@
-<table> <tr> <td bgcolor = # 7FFFD4> Цвет фона здесь: Аквамарин, шестнадцатеричное значение цвета: # 7FFFD4, rgb (127, 255, 212) </td> </tr> </ table>
 ## ADGUARD HOME DOCKER COMPOSE
 
 ```yaml
