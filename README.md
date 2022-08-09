@@ -1,4 +1,6 @@
-{red}{## ADGUARD HOME DOCKER COMPOSE}
+## ADGUARD HOME DOCKER COMPOSE
+
+<span style="color:red">text in red</span>
 
 ```yaml
 version: "2"
