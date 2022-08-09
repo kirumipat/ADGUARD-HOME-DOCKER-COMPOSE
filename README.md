@@ -1,4 +1,4 @@
-## ADGUARD HOME DOCKER COMPOSE
+$ \ color {red} {## ADGUARD HOME DOCKER COMPOSE} $
 
 ```yaml
 version: "2"
