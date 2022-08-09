@@ -1,4 +1,4 @@
-## adadguard home docker compose
+## ADGUARD HOME DOCKER COMPOSE
 
 ```yaml
 version: "2"
