@@ -1,10 +1,5 @@
 ## ADGUARD HOME DOCKER COMPOSE
 
-
-```diff
-+ ADGUARD HOME DOCKER COMPOSE
-```
-
 ```yaml
 version: "2"
 services:
