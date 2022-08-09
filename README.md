@@ -1,6 +1,6 @@
 ## adadguard home docker compose
 
-```lang-dockerfile
+```dockerfile
 version: "2"
 services:
    adguardhome:
@@ -20,7 +20,7 @@ services:
 
 ## add certificate localhost
 
-```bash
+```sh
 openssl req -x509 -out localhost.crt -keyout localhost.key \
   -newkey rsa:2048 -nodes -sha256 \
   -subj '/CN=localhost' -extensions EXT -config <( \
