@@ -1,6 +1,6 @@
 ## adadguard home docker compose
 
-```dockerfile
+```lang-docker
 version: "2"
 services:
    adguardhome:
