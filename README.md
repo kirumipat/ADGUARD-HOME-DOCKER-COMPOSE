@@ -1,5 +1,6 @@
 ## adadguard home docker compose
 
+``
 version: "2"
 services:
    adguardhome:
@@ -15,7 +16,7 @@ services:
      volumes:
        - ./work:/opt/adguardhome/work
        - ./conf:/opt/adguardhome/conf
-
+```
 
 ## ADD CERT LOCALHOST
 
