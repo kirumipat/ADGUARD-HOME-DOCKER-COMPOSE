@@ -1,3 +1,4 @@
+<table> <tr> <td bgcolor = # 7FFFD4> Цвет фона здесь: Аквамарин, шестнадцатеричное значение цвета: # 7FFFD4, rgb (127, 255, 212) </td> </tr> </ table>
 ## ADGUARD HOME DOCKER COMPOSE
 
 ```yaml
@@ -26,6 +27,6 @@ openssl req -x509 -out localhost.crt -keyout localhost.key \
   -subj '/CN=localhost' -extensions EXT -config <( \
    printf "[dn]\nCN=localhost\n[req]\ndistinguished_name = dn\n[EXT]\nsubjectAltName=DNS:localhost\nkeyUsage=digitalSignature\nextendedKeyUsage=serverAuth")
 ```
-## VIDEO
+## VIDEO GUIDE
 
 [![INSATALL ADDGUARD HOME](https://i9.ytimg.com/vi_webp/A4FTz2vLCMo/mqdefault.webp?v=62f24f4f&sqp=CJidyZcG&rs=AOn4CLAwkveAQ-AKQXrCEDGJIff7NIaMrw)](https://youtu.be/A4FTz2vLCMo)
