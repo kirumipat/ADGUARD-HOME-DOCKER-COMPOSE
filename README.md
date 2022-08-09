@@ -18,7 +18,7 @@ services:
        - ./conf:/opt/adguardhome/conf
 ```
 
-## ADD CERT LOCALHOST
+## add certificate localhost
 
 ```bash
 openssl req -x509 -out localhost.crt -keyout localhost.key \
