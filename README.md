@@ -1,9 +1,8 @@
 ## ADGUARD HOME DOCKER COMPOSE
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
 
 ```diff
-- text in red
+- ## ADGUARD HOME DOCKER COMPOSE
 + text in green
 ! text in orange
 # text in gray
