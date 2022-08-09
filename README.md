@@ -1,6 +1,6 @@
 ## adadguard home docker compose
 
-```
+```docker-compose
 version: "2"
 services:
    adguardhome:
