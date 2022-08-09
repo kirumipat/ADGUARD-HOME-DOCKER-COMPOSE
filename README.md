@@ -26,3 +26,4 @@ openssl req -x509 -out localhost.crt -keyout localhost.key \
   -subj '/CN=localhost' -extensions EXT -config <( \
    printf "[dn]\nCN=localhost\n[req]\ndistinguished_name = dn\n[EXT]\nsubjectAltName=DNS:localhost\nkeyUsage=digitalSignature\nextendedKeyUsage=serverAuth")
 ```
+[![INSATALL ADDGUARD HOME](https://i9.ytimg.com/vi_webp/A4FTz2vLCMo/mqdefault.webp?v=62f24f4f&sqp=CJidyZcG&rs=AOn4CLAwkveAQ-AKQXrCEDGJIff7NIaMrw)](https://youtu.be/A4FTz2vLCMo)
