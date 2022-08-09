@@ -2,11 +2,7 @@
 
 
 ```diff
-ADGUARD HOME DOCKER COMPOSE
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
++ ADGUARD HOME DOCKER COMPOSE
 ```
 
 ```yaml
