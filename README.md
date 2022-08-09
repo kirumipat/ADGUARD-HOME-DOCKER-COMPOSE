@@ -1,6 +1,6 @@
 ## adadguard home docker compose
 
-```bash
+```yaml
 version: "2"
 services:
    adguardhome:
