@@ -28,4 +28,4 @@ openssl req -x509 -out localhost.crt -keyout localhost.key \
 ```
 ## VIDEO GUIDE
 
-[![INSATALL ADDGUARD HOME](https://i9.ytimg.com/vi_webp/A4FTz2vLCMo/mqdefault.webp?v=62f24f4f&sqp=CJidyZcG&rs=AOn4CLAwkveAQ-AKQXrCEDGJIff7NIaMrw)](https://youtu.be/A4FTz2vLCMo)
+[![INSATALL ADDGUARD HOME](https://i9.ytimg.com/vi_webp/A4FTz2vLCMo/mqdefault.webp?v=62f24f4f&sqp=CODdzZcG&rs=AOn4CLDi0txCooalFb5MSAj8HD4xuS4YDQ)](https://youtu.be/A4FTz2vLCMo)
